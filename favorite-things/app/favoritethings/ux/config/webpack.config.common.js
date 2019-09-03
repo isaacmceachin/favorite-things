@@ -6,7 +6,7 @@ const MiniCSSExtractPlugin = require('mini-css-extract-plugin');
 const helpers              = require('./helpers');
 const isDev                = process.env.NODE_ENV === 'development';
 
-const dir = 'factor-src';
+const dir = 'src';
 
 const webpackConfig = {
     entry: {
