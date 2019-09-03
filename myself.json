@@ -1,0 +1,25 @@
+{
+  "name": "Isaac McEachin",
+  "zodiac": "Capricorn",
+  "programming_languages": [{
+    "lanauge_name": "nodejs",
+    "reason": "The large community, and fast development of language features"
+  },{
+    "language_name": "Java",
+    "reason": "I love all of the structure behind writing Java, I'm a fan of structured syntax."
+  },{
+    "language_name": "PHP",
+    "reason": "PHP is one of the first languages I learned, I enjoy the logic behind deploying plugins with hook-based frameworks in PHP like Drupal or WordPress."
+  }],
+  "movie_genres": ["drama", "sci-fi", "thriller", "cosmic horror"],
+  "eye_color": "brown",
+  "hair_color": "black",
+  "height": {
+    "cm": 175.26,
+    "in": 69
+  },
+  "weight": {
+    "lbs": 140,
+    "kg": 63.5029
+  },
+}
